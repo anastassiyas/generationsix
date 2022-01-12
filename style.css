@@ -1,0 +1,21 @@
+
+        
+        .fixed-header
+        {
+           
+        position: fixed;
+        background:  rgb(196, 183, 181);;
+        padding: 7px 0;
+        color: rgb(73, 51, 35);
+        }
+        .fixed-header{
+        top: 0;
+        }
+        
+        nav a{
+        text-align: left;
+        color: rgb(73, 51, 35);
+        padding: 7px 25px;
+        
+        }
+       
